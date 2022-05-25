@@ -19,5 +19,8 @@
   "homepage": "https://github.com/marianjerez/3dz#readme",
   "dependencies": {
     "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
   }
 }
